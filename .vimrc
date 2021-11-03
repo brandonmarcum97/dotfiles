@@ -16,7 +16,7 @@ set ruler
 " Blink cursor on error instead of beeping
 set visualbell
 
-" Encoding (hope this doesn't mess anything up
+" Encoding (hope this doesn't mess anything up)
 set encoding=utf-8
 
 " Whitespace
@@ -33,3 +33,4 @@ set showcmd
 
 " Fix backspace
 set backspace=2
+
