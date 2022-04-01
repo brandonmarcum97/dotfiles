@@ -3,3 +3,5 @@ CapsLock::Ctrl
 ^j::SendInput {Down}
 ^k::SendInput {Up}
 ^l::SendInput {Right}
+#BS::\
+#\::BS
