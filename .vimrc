@@ -21,7 +21,7 @@ set encoding=utf-8
 
 " Whitespace
 set wrap
-set textwidth=80
+set textwidth=0
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
